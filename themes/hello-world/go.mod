@@ -1,3 +1,3 @@
-module github.com/wowchemy/wowchemy-hugo-modules/themes/hello-world
+module github.com/zhongdongy/wowchemy-hugo-themes/themes/hello-world
 
 go 1.15
